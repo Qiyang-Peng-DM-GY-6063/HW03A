@@ -1,5 +1,5 @@
 # HW03A/B
-## HW03A - Variations based on Vera Molnar's work by p5.js
+## HW03A - The fake Yayoi Kusama
 
 Credit: Yayoi Kusama
 
